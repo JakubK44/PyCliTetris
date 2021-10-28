@@ -1,5 +1,5 @@
 '''
-Tetris in Python running in command line.
+Tetris in Python running in a command line.
 '''
 
 from blessed import Terminal
